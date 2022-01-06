@@ -1,1 +1,1 @@
-# PracticeProject-Landing-Page-HTML-CSS
+# PracticeProject-LandingPage-HTML-CSS
